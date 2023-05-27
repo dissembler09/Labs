@@ -1,5 +1,14 @@
 #ifndef MYTREE
 #define MYTREE
+
+#define MIN 0
+#define PLUS 1
+#define MULT 2
+#define DIV 3
+#define DEG 4
+#define OP_BRACK 1
+#define CL_BRACK -1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
